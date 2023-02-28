@@ -143,6 +143,7 @@ def lambda_handler(event, context):
 ```
 
 
+<img width="1326" alt="kmsid" src="https://user-images.githubusercontent.com/68053631/221889702-f844df93-0713-4a77-ba3a-640129d5ce91.png">
 
 
 Please go through the code once. The code is pretty self explanatory as I have commented every steps that I followed.
